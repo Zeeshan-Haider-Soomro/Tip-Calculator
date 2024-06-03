@@ -21,7 +21,7 @@ body{
     border-radius: 10px;
 }
 input{
-    width: 600px;
+    width: 500px;
     border-radius: 5px;
     outline: 0;
     border: 0.5px solid rgba(0, 0, 0, 0.24);
@@ -30,7 +30,7 @@ input{
 button{
     background-color: green;
     color: aliceblue;
-    width: 600px;
+    width: 500px;
     margin-top: 20px;
     outline: 0;
     border: 0;
